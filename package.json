@@ -1,0 +1,28 @@
+{
+  "name": "Banda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": 
+  {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/bsgtg/dbw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": 
+  {
+    "url": "https://gitlab.com/bsgtg/dbw/issues"
+  },
+  "homepage": "https://gitlab.com/bsgtg/dbw#readme",
+  "dependencies": 
+  {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1"
+  }
+}
